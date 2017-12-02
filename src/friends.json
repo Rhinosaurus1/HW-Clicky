@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "./images/blueBird.png"
+  },
+  {
+    "id": 2,
+    "image": "./images/blueJay.png"
+  },
+  {
+    "id": 3,
+    "image": "./images/cardinal.png"
+  },
+  {
+    "id": 4,
+    "image": "./images/cedarWaxWing.png"
+  },
+  {
+    "id": 5,
+    "image": "./images/chickadee.png"
+  },
+  {
+    "id": 6,
+    "image": "./images/downy.png"
+  },
+  {
+    "id": 7,
+    "image": "./images/goldfinch.png"
+  },
+  {
+    "id": 8,
+    "image": "./images/junco.png"
+  },
+  {
+    "id": 9,
+    "image": "./images/redWingBlackBird.png"
+  },
+  {
+    "id": 10,
+    "image": "./images/robin.png"
+  },
+  {
+    "id": 11,
+    "image": "./images/roseGrosbeak.png"
+  },
+  {
+    "id": 12,
+    "image": "./images/titmouse.png"
+  }
+]
